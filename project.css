@@ -1,5 +1,12 @@
- img {
-    width: 800px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    height: 600px;
-  } 
+h1[draggable=false]{
+
+  color: blueviolet;
+
+
+}
+h1[draggable=true]{
+
+  color: rgb(229, 102, 134);
+
+
+}
