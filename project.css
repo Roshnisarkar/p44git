@@ -1,45 +1,24 @@
-/* h1[draggable=false]{
+.first-cont{
+background-color: cadetblue;
+width: 100%;
+background-size: cover;
+height: 800px;
 
-  color: blueviolet;
-  border: 2px solid red;
 
 
 }
-h1[draggable=true]{
 
-  color: rgb(229, 102, 134);
-  border: 2px green;
-}
-
-
-p{
-
-  color: yellow;
-  border: 2px rgb(230, 90, 114);
+.container1{
   
 }
-.con{
-  padding: 100px ;
-
-  color: blueviolet;
-  background-color: red;
-  border-radius: 100%;
-  border: 10px;
-} */
 
 
-.con{
- width: 500px;
- padding: 50px 50px 300px 10px;
-  border: 2px solid black;
-  margin: 50px 500px 500px 500px;
-}
-.con2{
- 
-width: 200px;
-padding: 40px;
-height: 200px;
-  border: 2px dashed rgb(243, 27, 27);
+
+
+
+
+
+
 
 
 }
